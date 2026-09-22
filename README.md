@@ -1,4 +1,4 @@
-# 구현 내역
+# 웹 크래프트 구현 내역
 
 Lv 1. Docker로 MySQL과 Redis 설정: Docker MySQL/Redis 접속 정보를 `application.properties`에 설정.
 
